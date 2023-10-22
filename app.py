@@ -91,7 +91,7 @@ st.markdown(
     </style>
     <body>
         <div class="center-image">
-            <h4>Anoop Johny 🤖</h4>
+            <h4>Hiro 🤖</h4>
         </div>
         <div class="center-image">
             <h4>Follow Me</h4>

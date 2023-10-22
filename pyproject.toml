@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "boteach"
+name = "aiwiki"
 version = "0.1.0"
-description = "QA bot assist for slow learners"
+description = "Wiki AI bot assist for slow readers"
 authors = ["Hiro <laciferin@gmail.com>"]
 license = "MIT"
 readme = "README.md"
